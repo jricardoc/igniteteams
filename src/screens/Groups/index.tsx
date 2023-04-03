@@ -13,7 +13,6 @@ export function Groups() {
       />
 
       <GroupCard title='Galera do ignite'/>
-      <Title>Groups</Title>
     </Container>
   );
 }

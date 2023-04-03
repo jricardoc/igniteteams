@@ -1,3 +1,4 @@
+import {  } from 'react-native';
 import { Container, Icon, Title } from './styles';
 
 type Props = {
